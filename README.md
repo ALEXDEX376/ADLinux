@@ -5,5 +5,7 @@ A custom Linux distribution with the lts-6.12 kernel and Busybox 1.37.0.
 
 Contains only Linux 6.12.49-lts kernel and Busybox 1.37.0 
 Any help would be appreciated here - https://www.reddit.com/r/Operatingsystems/comments/1nrnowk/adlinux_created_it_in_school_holidays/
-Made with love by an indian kid name Advik 
+iso also available on sourceforge - https://sourceforge.net/projects/adlinux/
+
+Made with love by an indian kid named Advik 
 took 3 days to learn how to do it
