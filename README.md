@@ -3,6 +3,8 @@ A custom Linux distribution with a Linux kernel, Busybox and GRUB
 
 Contains only Linux 6.12.49-lts kernel and Busybox 1.37.0 
 
+Also releaed the uroot-mini version with lesser commands that has U-root instead of Busybox
+
 ![linux-logo](https://github.com/user-attachments/assets/1089a523-5eb2-4c4f-825b-d35486214542)
 
 <img width="787" height="548" alt="Screenshot_20250927_113537" src="https://github.com/user-attachments/assets/71a48c9b-2c60-4df0-9223-91e4a95a2002" />
