@@ -1,9 +1,10 @@
 CREDIT GOES TO ALL RESPECTIVE PEOPLE WHO CRATED THE UTILITIES FOR THIS DISTRO
 
-kernel - https://www.kernel.org/
-busybox - busybox.net/
+kernel - https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/tree/?h=v6.12.49
+busybox - https://busybox.net/downloads/busybox-1.37.0.tar.bz2
 gcc - https://gcc.gnu.org/
 the guide i followed to make this - https://medium.com/@ThyCrow/compiling-the-linux-kernel-and-creating-a-bootable-iso-from-it-6afb8d23ba22
+grub - https://cgit.git.savannah.gnu.org/cgit/grub.git/tag/?h=grub-2.12
 
 bash-static - https://github.com/robxu9/bash-static
 curl-static - https://github.com/moparisthebest/static-curl
