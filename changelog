@@ -1,0 +1,17 @@
+ADDED
+
+bash-static - https://github.com/robxu9/bash-static
+curl-static - https://github.com/moparisthebest/static-curl
+soar - https://github.com/pkgforge/soar?tab=readme-ov-file
+
+INFORMATION
+
+Added bash and also made it the default shell. However, you can still change it to Ash or Sh.
+Added curl, command to run it is "curl".
+Added soar as the package manager. More information on their website.
+Example soar commands are - 
+	soar install <package>
+	soar remove <package1> <package2> <package3>
+	soar update
+	soar update <package1> <package2>
+	soar search <query>
