@@ -21,6 +21,8 @@ initrd /initramfs.cpio.gz
 
 Any help would be appreciated here - https://www.reddit.com/r/Operatingsystems/comments/1nrnowk/adlinux_created_it_in_school_holidays/
 
+If you face any issue, please put it on the issues page
+
 iso also available on sourceforge - https://sourceforge.net/projects/adlinux/
 
 Made with love by an indian kid named Advik.
