@@ -9,15 +9,9 @@ Contains the Linux 6.12.49-lts kernel, Busybox 1.37.0 and the Soar package manag
 VERSION 0.5 RELEASED WITH
 WORKING GRUB AND A PACAKGE MANAGER  
 
-if Grub cannot load the os, run these commands - 
+version 0.6 in development with the sash shell.
 
-''
-set root=cd
-
-linux /bzImage
-
-initrd /initramfs.cpio.gz 
-''
+if Grub cannot load the os, look at the grubfix file for instructions to fix it.
 
 Any help would be appreciated here - https://www.reddit.com/r/Operatingsystems/comments/1nrnowk/adlinux_created_it_in_school_holidays/
 
