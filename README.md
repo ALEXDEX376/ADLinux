@@ -9,7 +9,8 @@ Contains the Linux 6.12.49-lts kernel, Busybox 1.37.0 and the Soar package manag
 # VERSION 0.6 OUT NOW !!11!1!!!11!1!
 With a huge amount of changes. Look at the changelog for more info
 
-if Grub cannot load the os, look at the grubfix file for instructions to fix it.
+# Misc
+Wiki is under development.
 
 Any help would be appreciated here - https://www.reddit.com/r/Operatingsystems/comments/1nrnowk/adlinux_created_it_in_school_holidays/
 
