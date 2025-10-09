@@ -1,7 +1,0 @@
-if Grub cannot load the os, run these commands -
-
-'' set root=cd
-
-linux /bzImage
-
-initrd /initramfs.cpio.gz ''
