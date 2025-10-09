@@ -15,3 +15,15 @@ Example soar commands are -
 	soar update
 	soar update <package1> <package2>
 	soar search <query>
+
+ADDED 08/10/2025 and 09/10/2025 [dd/mm/yyyy] for v0.6
+
+linux-static-binaries: https://github.com/polaco1782/linux-static-binaries
+wget: https://github.com/yunchih/static-binaries?tab=readme-ov-file
+some code taken from here: https://github.com/EHowardHill/AshDOS-Tutorial/blob/main/build.sh
+learnt to do everything from here: https://medium.com/@ThyCrow/compiling-the-linux-kernel-and-creating-a-bootable-iso-from-it-6afb8d23ba22
+mknods and links are added!
+partially working gcc version;)
+poweroff -f works now!
+
+
