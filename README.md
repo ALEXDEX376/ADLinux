@@ -10,9 +10,9 @@ Contains the Linux 6.12.49-lts kernel, Busybox 1.37.0 and the Soar package manag
 With a huge amount of changes. Look at the changelog for more info
 
 # Misc
-Wiki is under development.
+Wiki is under development. Many pages (EG - CREDITS) are now being moved to the wiki. Look there for more information.
 
-Any help would be appreciated here - https://www.reddit.com/r/Operatingsystems/comments/1nrnowk/adlinux_created_it_in_school_holidays/
+Any help would be appreciated here - https://www.reddit.com/r/Operatingsystems/comments/1nrnowk/adlinux_created_it_in_school_holidays
 
 If you face any issue, please put it on the issues page
 
